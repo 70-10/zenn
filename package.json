@@ -1,0 +1,19 @@
+{
+  "name": "zenn",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://zenn.dev/70_10",
+  "repository": "70-10/zenn",
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "article": "zenn new:article",
+    "book": "zenn new:book",
+    "dev": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.31"
+  }
+}
